@@ -1,0 +1,15 @@
+.margin {
+    padding-top: 12px;
+    padding-bottom: 8px;
+}
+
+.btncls {
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.dropdown {
+    display: block;
+    width: 100%
+}
